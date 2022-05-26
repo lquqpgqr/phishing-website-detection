@@ -1,9 +1,11 @@
 # phishing-website-detection
 
-Project Name: Phishing Website Detection using Machine Learning
+**Project Name: Phishing Website Detection using Machine Learning**
+
 Project Member: Sabikun, Latifur, Abir
 
-Project Description:
+**Project Description:**
+
 This project explores machine learning techniques and evaluates their performances
 when trained to perform against datasets consisting of features that can
 differentiate between a Phishing Website and a safe one.
